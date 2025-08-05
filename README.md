@@ -11,3 +11,8 @@ Bem vindo ao repositório. Este é um projeto de lab para estudos com Git e GitH
 ### ESTRUTURA DO PROJETO
 
 
+### ADICIONANDO CONTEÚDO REMOTAMENTE
+
+___
+
+## COMO TRABALHAR COM O GIT
